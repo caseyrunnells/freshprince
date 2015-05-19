@@ -1,0 +1,39 @@
+body {
+	background-color: #30BBF2;
+}
+
+.wrapper {
+	background-color: #1DDDF2;
+	text-align: center;
+	font-family: "Comic Sans MS";
+	max-width: 500px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+h1 {
+	color: #4E49F2;
+}
+
+p {
+	color: #276BF2;
+}
+
+ul {
+	text-align: left;
+	color: #4E49F2;
+	list-style-type: disc;
+}
+
+a:link {
+	color:#276BF2;
+	text-decoration: none;
+}
+
+a:hover {
+	color:#30BBF2;
+}
+
+a:active {
+	color:#30BBF2;
+}
